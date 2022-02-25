@@ -10,6 +10,7 @@ tags:
   - tasting
 ---
 ![flavor wheel](https://www.hitinstall.com/img_static/site/hitinstall-final.png)
+<small>Source: hitinstall.com</small>
 
 get the latest coupons for Dell company printers, verified by dell.com with hitinstall.com
 
