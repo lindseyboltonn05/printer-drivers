@@ -18,12 +18,13 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: https://www.hitinstall.com/img_static/site/hitinstall-final.png
+    - image: 
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        to fall in love with in our shop. Latest Coupons & Deals products hitinstall.com
+        https://www.hitinstall.com/img_static/site/hitinstall-final.png
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
