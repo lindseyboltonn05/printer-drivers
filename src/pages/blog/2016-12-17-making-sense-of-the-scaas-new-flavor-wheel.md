@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](https://www.hitinstall.com/img_static/site/hitinstall-final.png)
+<a href="https://www.hitinstall.com/img_static/site/hitinstall-final.png" target="_blank"><img alt="36 Off Dell Coupons Discount Promo Codes 2022" src="https://www.hitinstall.com/img_static/site/hitinstall-final.png" width="100%" onerror="this.onerror=null;this.src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcE0Jj6FuSGXQ11RJ3nlGJ9uQzmrwk0xcsfQ&amp;usqp=CAU';"></a>
 <small>Source: hitinstall.com</small>
 
 get the latest coupons for Dell company printers, verified by dell.com with hitinstall.com
